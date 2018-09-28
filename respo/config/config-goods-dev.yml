@@ -1,2 +1,4 @@
 path: 
   name: hsz
+server:
+  port: 8082
